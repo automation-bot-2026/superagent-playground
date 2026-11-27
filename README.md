@@ -1,4 +1,9 @@
-# superagent-playground
 
-Test repo for dsh-superagent.
-Hello from superagent.
+## Usage
+
+```sh
+npm install
+npm run build
+npm start
+```
+llo from superagent.
